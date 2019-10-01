@@ -3,11 +3,11 @@ Site personnel pour l'option complémentaire en informatique 2019-20
 
 ## Sujet
 
-- Introduction
+- Introduction à la programmation
 - Nombre binaires
 - Fonction
 - Structure de donné
 
-# Introduction
+## Résumer
 
 Cours d'oc informatique au bugnon
